@@ -110,5 +110,4 @@ Este projeto demonstrou como a IA pode ser utilizada como ferramenta de aprendiz
 
 ## 🔗 Link do Repositório
 
-(Insira aqui o link do seu GitHub após publicar)
-``
+https://github.com/nureyevDev/caderno-tematico-engenharia-prompts
